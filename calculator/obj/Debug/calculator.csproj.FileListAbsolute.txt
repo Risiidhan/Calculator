@@ -1,0 +1,11 @@
+F:\BEng\AD\calculator\calculator\bin\Debug\calculator.exe.config
+F:\BEng\AD\calculator\calculator\bin\Debug\calculator.exe
+F:\BEng\AD\calculator\calculator\bin\Debug\calculator.pdb
+F:\BEng\AD\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+F:\BEng\AD\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+F:\BEng\AD\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+F:\BEng\AD\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+F:\BEng\AD\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+F:\BEng\AD\calculator\calculator\obj\Debug\calculator.exe
+F:\BEng\AD\calculator\calculator\obj\Debug\calculator.pdb
+F:\BEng\AD\calculator\calculator\obj\Debug\calculator.Calculator.resources
